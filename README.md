@@ -19,7 +19,7 @@ Além do conhecimento técnico, sou uma pessoa comunicativa e gosto de trabalhar
   🔹 Aprimorando minhas habilidades e explorando novas tecnologias
 
 # 📫 Onde me encontrar?  
-🔗 [LinkedIn](linkedin.com/in/thiago-jose-tj/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thiago-jose-tj/)  
 📸 [Instagram](https://www.instagram.com/thiago_tj18/)  
 ✉️ [E-mail](mailto:thiago18122003@gmail.com)  
 <!--🖥️ [Portfólio](https://www.seusite.com)   futuramente colocar   -->
