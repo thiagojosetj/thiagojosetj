@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou o Thiago José 👋
 
 👋 Sobre mim
 Olá! Sou um entusiasta da tecnologia e da programação, sempre buscando aprender e evoluir. Atualmente, estou aprimorando minhas habilidades para atuar profissionalmente na área da programação.
