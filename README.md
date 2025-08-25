@@ -6,7 +6,7 @@ Olá! Sou um entusiasta da tecnologia e da programação, sempre buscando aprend
 📍 Morando em Brasília
 
 🛠️ Tecnologias e habilidades
-  💻 Linguagens: Java, C, Python, JavaScript
+  💻 Linguagens: Java, C++, Python, JavaScript
   🎨 Front-end: HTML, CSS
   🗄️ Banco de Dados: MySQL
   🤖 Hardware: Programação de Arduino
@@ -15,7 +15,7 @@ Além do conhecimento técnico, sou uma pessoa comunicativa e gosto de trabalhar
 
 🌱 O que estou fazendo agora?
   🔹 Buscando um estágio na área de programação
-  🔹 Desenvolvendo um site para minha empresa de drones
+  🔹 Desenvolvendo um site para servir de portfolio
   🔹 Aprimorando minhas habilidades e explorando novas tecnologias
 
 # 📫 Onde me encontrar?  
